@@ -1,6 +1,8 @@
 ## The Scientific Software Center is hiring!
 
-Are you passionate about writing good code? Do you enjoy learning how to do things better and sharing that knowledge? Would you like to use your skills to help advance cutting edge research projects? Then join our team of Research Software Engineers!
+Are you passionate about writing good code? Do you enjoy learning how to do things better and sharing that knowledge? Would you like to use your skills to help advance cutting edge research projects? Then join our [team of Research Software Engineers](https://www.ssc.uni-heidelberg.de/en/what-the-scientific-software-center-is-all-about/meet-our-team)!
+
+---
 
 ### Research Software Engineer
 
@@ -10,6 +12,8 @@ Are you passionate about writing good code? Do you enjoy learning how to do thin
 - Machine Learning
 
 [More information](https://adb.zuv.uni-heidelberg.de/info/INFO_FDB$.startup?MODUL=LS&M1=1&M2=0&M3=0&PRO=36241) (Deadline for applications: November 30, 2024)
+
+---
 
 ### Research Software Engineer: Web Development
 
